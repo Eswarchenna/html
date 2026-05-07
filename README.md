@@ -40,4 +40,8 @@
  8. mark tags <<mark></mark>
  9. smaller tags <small></small>
 10. instered tags <ins></ins>
- 
+
+ 07/05/26
+ concept :Student Registration
+ descrition: Today topic is create a form student regi using  some tags ,table and also listing tags
+ tags: form tag,table tag, ordered list unordered list
