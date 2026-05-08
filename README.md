@@ -45,3 +45,19 @@
  concept :Student Registration
  descrition: Today topic is create a form student regi using  some tags ,table and also listing tags
  tags: form tag,table tag, ordered list unordered list
+
+ 08/05/26
+ 1. image tags <img>
+ 2. video tags<video></video>
+ 3. audio tags <audio></audio>
+ 4. iframe tags <iframe></iframe>
+ 5. header tags <header></header>
+ 6. footer tags<footer></footer>
+ 7. section tags <sectio></section>
+ 8. type attributes=("blank,parent,top,myself)
+ 9. division tags <div></div>
+ 10. a tags <a></a>
+ 11. art tags <article></article>
+ 12. nav tags <nav></nav>
+ 
+ 
