@@ -59,5 +59,18 @@
  10. a tags <a></a>
  11. art tags <article></article>
  12. nav tags <nav></nav>
+
+ 9/5/26
+mini project usings
+html basic tags
+table tags
+form
+order list
+unorder lisr
+audio tag
+vidio tag
+image tag
+header tag
+foooter tag
  
  
